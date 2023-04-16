@@ -32,7 +32,7 @@ const Forth = forwardRef((props: any, ref) => {
           <Text fontSize='20px' color='#CED0CE'>1:01-1:18</Text>
         </Box>
 
-        <Text fontSize='20px'>This song resonates with Macbeth Act 1, Scene 7, with the theme that Macbeth is at the turning point of his own demise, as the lyrics state, “There’s no turning back.” Immediately following Act 1, he would already be executing Lady Macbeth’s plan. If he committed the murder, he would pass the point of returning, and his downfall and fat would be guaranteed. The song’s title, “Everybody Wants To Rule The World,” refers to Macbeth and Lady Macbeth’s unstoppable desire for power and the throne. The lyrics “Even while we sleep \ We will find you” also imply how Duncan is murdered on his bed.</Text>
+        <Text fontSize='20px'>This song resonates with <Text as='i' fontFamily='Roboto' fontWeight='500'>Macbeth</Text> Act 1, Scene 7 with the theme that Macbeth is at the turning point of his own demise, as the lyrics state, “There’s no turning back.” Immediately following Act 1, he would already be executing Lady Macbeth’s plan. If he committed the murder, he would pass the point of returning, and his downfall and fat would be guaranteed. The song’s title, “Everybody Wants To Rule The World,” refers to Macbeth and Lady Macbeth’s unstoppable desire for power and the throne. The lyrics “Even while we sleep \ We will find you” also imply how Duncan is murdered on his bed.</Text>
       </Box>
       <Box mx='70px' display='grid' placeItems='center'>
         <Player id={4} pauseOther={props.pauseOther} ref={player} vinyl={vinyl} song={tears} posterResize='30%' start={61} name='Everybody Wants To Rule The World' artist='Tears For Tears' />

@@ -39,7 +39,7 @@ const First = forwardRef((props: any, ref) => {
           <Text fontSize='20px' color='#CED0CE'>0:56-1:17</Text>
         </Box>
 
-        <Text fontSize='20px' pr='90px'>Demons by Imagine Dragons explores themes relating to the hidden darkness within people. When the song states, “Don’t get too close \ It’s dark inside \ It’s where my demons hide,” it tries to protect others and from our inner impulses from the demon inside. The demon symbolizes the greed and ambition of Macbeth, as well as his desire for the crown. Overall, the lyrics can relate to Macbeth’s inner conflict with murdering Duncan. Though he realizes the evil nature of the murder, he still cannot resist the temptation of power that drives him towards it, expressed when Macbeth states: “I have no spur \ To prick the sides of my intent, but only \ Vaulting ambition, which o’erleaps itself \ And falls on th’ other” (1.7.25-28).</Text>
+        <Text fontSize='20px' pr='90px'>"Demons" by Imagine Dragons explores themes relating to the hidden darkness within people. When the song states, “Don’t get too close \ It’s dark inside \ It’s where my demons hide,” it tries to protect others and from our inner impulses from the demon inside. The demon symbolizes the greed and ambition of Macbeth, as well as his desire for the crown. Overall, the lyrics can relate to Macbeth’s inner conflict with murdering Duncan. Though he realizes the evil nature of the murder, he still cannot resist the temptation of power that drives him towards it, expressed when Macbeth states: “I have no spur \ To prick the sides of my intent, but only \ Vaulting ambition, which o’erleaps itself” (1.7.25-27).</Text>
       </Box>
     </Flex>
   )
